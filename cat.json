@@ -1,0 +1,14 @@
+[
+    {
+            "Breed": "Siamese",
+            "Gender": "Male"
+    },
+    {
+            "Breed": "Persian",
+            "Gender" : "Female"
+    },
+    {
+            "Breed": "Ragdoll",
+            "Gender": "Male"
+    }
+]
